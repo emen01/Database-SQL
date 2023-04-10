@@ -1,2 +1,3 @@
 # Database-SQL
- Database operations with SQL
+ Database operations with SQL:
+SQL queries on database table.
